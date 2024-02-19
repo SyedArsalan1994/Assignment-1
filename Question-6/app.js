@@ -6,4 +6,4 @@ let trimName = nameWithSpace.trim();
 // Print the name with space
 console.log("Name with Spaces:", nameWithSpace);
 // Print the trimmed name
-console.log("Name without Spaces:", trimName);
+console.log("Name without Spaces:", trimName); 
